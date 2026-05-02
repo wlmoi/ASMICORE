@@ -1,0 +1,4 @@
+Issue Log
+Date | Owner | Issue | Status | Notes
+-----|-------|-------|--------|------
+YYYY-MM-DD | Name | Short description | Open/Closed | -
