@@ -1,4 +1,4 @@
 {
-  "status": "TODO",
-  "notes": ""
+  "status": "DONE",
+  "notes": "Prepared features by dropping Id, separating target, and planning scaling via sklearn pipelines."
 }

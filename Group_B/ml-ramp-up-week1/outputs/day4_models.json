@@ -1,4 +1,4 @@
 {
-  "status": "TODO",
-  "notes": ""
+  "status": "DONE",
+  "notes": "Trained baseline models (Logistic Regression, SVM, Random Forest) using cross-validation and compared accuracy."
 }

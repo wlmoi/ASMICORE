@@ -1,4 +1,4 @@
 {
-  "status": "TODO",
-  "notes": ""
+  "status": "DONE",
+  "notes": "Loaded Iris dataset from data/dataset.csv, verified schema, missing values, duplicates, and basic stats."
 }

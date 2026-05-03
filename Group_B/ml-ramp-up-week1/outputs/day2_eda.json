@@ -1,4 +1,4 @@
 {
-  "status": "TODO",
-  "notes": ""
+  "status": "DONE",
+  "notes": "Performed EDA with class distribution, feature histograms, scatter matrix, and correlation heatmap."
 }

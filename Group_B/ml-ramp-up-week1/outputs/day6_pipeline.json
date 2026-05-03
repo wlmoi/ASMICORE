@@ -1,4 +1,4 @@
 {
-  "status": "TODO",
-  "notes": ""
+  "status": "DONE",
+  "notes": "Built a full sklearn pipeline with scaling and model selection, then saved the fitted model artifact."
 }

@@ -1,10 +1,7 @@
 # ML Ramp-Up Week 1 - Group B
 
 ## Team
-- William Anthony_ITB_Indonesia
-- <Member2_FullName_Institute_Bangladesh>
-- <Member3_FullName_Institute_Bangladesh>
-- <Member4_FullName_Institute_Bangladesh>
+- William Anthony - Bandung Institute of Technology (Indonesia) [Solo]
 
 ## Rules / Workflow
 - Keep one canonical dataset in data/dataset.csv.
@@ -25,4 +22,4 @@
 - logs/
 
 ## Notes
-- Replace team placeholders with real names.
+- Dataset reference: https://www.kaggle.com/datasets/uciml/iris/data (stored as data/dataset.csv)
