@@ -2,7 +2,7 @@
 
 ## Team
 - William Anthony - Bandung Institute of Technology (Indonesia) [Solo]
-
+- Kh Sadman Rahman - University of Dhaka
 ## Rules / Workflow
 - Keep one canonical dataset in data/dataset.csv.
 - Use notebooks/dayX_analysis.ipynb for EDA and analysis.
